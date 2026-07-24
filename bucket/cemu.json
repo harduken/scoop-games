@@ -46,9 +46,13 @@
         "gameProfiles",
         "graphicPacks",
         "mlc01",
+        "screenshots",
         "sharedFonts",
         "shaderCache\\transferable",
-        "keys.txt"
+        "keys.txt",
+        "otp.bin",
+        "seeprom.bin",
+        "settings.xml"
     ],
     "uninstaller": {
         "script": [
